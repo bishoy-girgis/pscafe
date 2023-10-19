@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "240834233310",
+    "project_id": "ps-system-d5dc7",
+    "storage_bucket": "ps-system-d5dc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240834233310:android:f7c9488bb5729a1657d34f",
+        "android_client_info": {
+          "package_name": "com.example.ps_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240834233310-ibp1qn0vdq9k4v2uf3efic7rjkg3ogln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTtKdXkkP44wpVDPeziWD7NtIDGDIWg9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240834233310-ibp1qn0vdq9k4v2uf3efic7rjkg3ogln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240834233310-olscg8nb8rn2nm75ivsao9fcpei3ud6p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.psSystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
