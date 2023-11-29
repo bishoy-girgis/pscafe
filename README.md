@@ -16,7 +16,7 @@ A responsive desktop application designed for PlayStation and cafe management, d
 
 ## Demo
 
-Watch a video demonstration of the application [here](link_to_video_demo).
+Watch a video demonstration of the application [here](https://drive.google.com/file/d/1RG3AWODb7jK4xLZKn89aF-VtMPQlpRJJ/view?usp=sharing).
 
 ## Getting Started
 
